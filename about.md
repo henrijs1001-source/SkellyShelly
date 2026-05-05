@@ -1,13 +1,5 @@
-# CHIMERA Name
+**SkellyShelly**
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+**SkellyShelly** is a mythical creature that lurks around the souls of deangewandte students. Once they hit a creative block, he comes to hunt them and prevents artists from creating anything.
 
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+It was inspired from the  mythical creature **Monachus Maris** // **Sea Monk**. It lurks around deangewandte idle but inside peoples minds.
